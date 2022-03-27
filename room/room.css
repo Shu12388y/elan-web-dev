@@ -1,0 +1,129 @@
+.flex-container1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+
+#f1 {
+    background-color: blue;
+    height: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#q1 {
+    width: 80%;
+
+}
+
+#f2 {
+    color: white;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#man {
+    height: 40px
+}
+
+#b1 {
+    background: transparent;
+    border: transparent;
+}
+
+#d1 {
+    text-align: center;
+    background-color: rgb(160, 152, 152);
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    font-size: xx-large;
+    margin-top: 10px;
+}
+
+#i2 {
+    font-size: large;
+}
+
+#d2 {
+    font-size: x-large;
+    font-family: 'Gill Sans MT';
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#d3 {
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+#but1 {
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 10px;
+    border: transparent;
+}
+
+#but1:hover {
+    background-color: rgb(103, 163, 231);
+}
+
+#d4 {
+    font-size: x-large;
+    font-family: monospace;
+
+}
+
+#speci {
+    font-size: large;
+    font-family: monospace;
+}
+
+input.mm {
+    width: 25px;
+    height: 25px;
+}
+
+.flex-container2 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#per:hover {
+    cursor: pointer;
+
+}
+
+#gap {
+    border-radius: 12px;
+    background-color: lightblue;
+    color: black;
+    margin: 2rem 0rem 0rem 1rem;
+    padding: 5px;
+}
+
+#kup:hover {
+    cursor: pointer;
+}
+
+#share {
+    border-radius: 12px;
+    background-color: lightblue;
+    color: black;
+
+}
+
+#sah {
+    margin: 3rem 2rem 0rem 2rem;
+
+}
+
+#cer {
+    border-radius: 12px;
+    background-color: lightblue;
+    color: black;
+    margin: 7% 2% 1% 90%;
+
+
+}
